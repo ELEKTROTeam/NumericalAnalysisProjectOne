@@ -16,6 +16,7 @@ We also include the PDF files of our investigation. You can also access them on 
 ---
 ## Live Demo (Gradio)
 
+The project was uploaded to Hugging Face and can be accessed [here](https://huggingface.co/spaces/IsaacTov23/elektro-gradio/tree/main).
 We also deployed a simplified version of both models:
 **[Try the models on Gradio](https://isaactov23-elektro-gradio.hf.space/?logs=container&__theme=system)**
 
