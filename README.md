@@ -8,6 +8,12 @@ This repository contains two machine learning models implemented entirely from s
 Both are applied to real-world datasets and developed in **Jupyter Notebooks** as part of a Numerical Analysis university project.
 
 ---
+## A Study of Gradient Descent and Stochastic Gradient Descent Methods in Optimization Problems.
+We also include the PDF files of our investigation. You can also access them on the following links on Overleaf:
+- [English version](https://es.overleaf.com/read/wstdqscbmfxv#423e11)
+- [Spanish version](https://es.overleaf.com/read/jpwpjxfzbjjg#c090b1)
+
+---
 ## Live Demo (Gradio)
 
 We also deployed a simplified version of both models:
